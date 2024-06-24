@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "dianxiaomi.com",
+        "mangoerp.com",
+        "91miaoshou.com",
+        "aliexpress.com",
+        "ozon.ru"
+      ],
+      "domain_suffix": [
+        ".dianxiaomi.com",
+        ".mangoerp.com",
+        ".91miaoshou.com",
+        ".aliexpress.com",
+        ".ozon.ru"
+      ]
+    }
+  ]
+}

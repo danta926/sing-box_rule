@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "googleapis.cn",
+        "xn--ngstr-lra8j.com"
+      ],
+      "domain_suffix": [
+        ".googleapis.cn",
+        ".xn--ngstr-lra8j.com"
+      ]
+    }
+  ]
+}

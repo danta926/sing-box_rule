@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "xhamsterlive.com",
+        "doppiocdn.com",
+        "strpst.com",
+        "stripchat.com",
+        "chaturbate.com",
+        "highwebmedia.com",
+        "mmcdn.com"
+      ],
+      "domain_suffix": [
+        ".xhamsterlive.com",
+        ".doppiocdn.com",
+        ".strpst.com",
+        ".stripchat.com",
+        ".chaturbate.com",
+        ".highwebmedia.com",
+        ".mmcdn.com"
+      ]
+    }
+  ]
+}
